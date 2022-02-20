@@ -27,7 +27,7 @@
 
   ## Testing 
   How to test:
-  They will Clone my repo. download all the dependencies with npm install, and then run node index
+  They will Clone my repo. download all the dependencies with npm install, and then run node index, you will also have to create an .env file with sql password defined.
 
   ## Licenses:
    
