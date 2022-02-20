@@ -1,7 +1,6 @@
 # Employee Tracker
-  ## Link to demo video:
-  https://drive.google.com/file/d/1lo4inBXdmfeV04Jvz0AsA8ib0-ntE8ua/view
-   
+  ## Link to Demo video:
+   https://drive.google.com/file/d/1lo4inBXdmfeV04Jvz0AsA8ib0-ntE8ua/view
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
